@@ -1,0 +1,16 @@
+//Fcatorial of a number
+#include<stdio.h>
+int main()
+{
+	int num, i, fact = 1;
+	printf("Whose factorial you want to calculate? ");
+	scanf("%d", &num);
+	
+	for(i=1; i<=num; i++) //for(i=num; i<=num; i++)
+	{
+		fact = fact*i;
+	}
+	printf("Factorial of %d is = %d", num, fact);
+	return 0;
+	
+}
