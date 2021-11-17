@@ -1,2 +1,2 @@
 # CSE-101
-C language programs
+Programs on C language.
