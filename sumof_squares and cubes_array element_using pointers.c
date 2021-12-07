@@ -18,8 +18,8 @@ int main()
 		ptr = ptr + 1;
 	}
 	
-	printf("\nThe sum of squares of elements of the array : %d", sum1);
-	printf("\nThe sum of cubes of elements of the array : %d", sum2);
+	printf("\n\nThe sum of squares of elements of the array : %d", sum1);
+	printf("\n\nThe sum of cubes of elements of the array : %d", sum2);
 
     return 0;
 }
