@@ -19,7 +19,7 @@ int main()
 	}
 	
 	printf("\nThe sum of squares of elements of the array : %d", sum1);
-	printf("\nThe sum of cube of elements of the array : %d", sum2);
+	printf("\nThe sum of cubes of elements of the array : %d", sum2);
 
     return 0;
 }
